@@ -1,0 +1,290 @@
+{
+    "results": [
+      {
+        "gender": "female",
+        "name": {
+          "title": "Miss",
+          "first": "Xedice",
+          "last": "Mustafa"
+        },
+        "location": {
+          "street": {
+            "number": 4788,
+            "name": "Rua Primeiro de Maio "
+          },
+          "city": "Baku",
+          "state": "Yasamal",
+          "country": "Azerbaijan",
+          "postcode": 97660,
+          "coordinates": {
+            "latitude": "-78.6826",
+            "longitude": "87.2731"
+          },
+          "timezone": {
+            "offset": "+3:30",
+            "description": "Tehran"
+          }
+        },
+        "email": "xedijemustafha@example.com",
+        "login": {
+          "uuid": "fb497893-fee5-4cee-b24f-f6008d65ae30",
+          "username": "yellowzebra483",
+          "password": "crazybab",
+          "salt": "44uU55Bi",
+          "md5": "3f68af08ac5a52240be140de8bba6c66",
+          "sha1": "3db4ad4ff6df01bd37784fdeba44cd1aaef002fa",
+          "sha256": "9c9049a4380f62f327e1fd763325c35a2c81430fed4a9b8dcb5e4bc3b1b28671"
+        },
+        "dob": {
+          "date": "1947-07-22T12:00:01.072Z",
+          "age": 75
+        },
+        "registered": {
+          "date": "2002-03-23T15:01:19.995Z",
+          "age": 20
+        },
+        "phone": "(83) 3692-0571",
+        "cell": "(89) 6883-9335",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/52.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/52.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/52.jpg"
+        },
+        "nat": "BR"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Qazi",
+          "first": "Ishaq",
+          "last": "Yagublu"
+        },
+        "location": {
+          "street": {
+            "number": 9071,
+            "name": "Fairview Road"
+          },
+          "city": "Bilesuvar",
+          "state": "Aran",
+          "country": "Azerbaijan",
+          "postcode": "GN87 0NH",
+          "coordinates": {
+            "latitude": "8.6580",
+            "longitude": "75.1932"
+          },
+          "timezone": {
+            "offset": "+1:00",
+            "description": "Brussels, Copenhagen, Madrid, Paris"
+          }
+        },
+        "email": "ishaq.babnik@example.com",
+        "login": {
+          "uuid": "1dfadd5e-4598-4da6-87e2-32bbe1f59f87",
+          "username": "blackbutterfly424",
+          "password": "hippo",
+          "salt": "T4f9uK7I",
+          "md5": "fcc098cce23f383687a6ebcf4f3f357d",
+          "sha1": "1c6c8f2966c03ecdc3f6a7fccec9214a8cb6ec03",
+          "sha256": "b9f4679c5ffebddb43160e9d9c2b7d299e7f2097c754c89f4d5aafa9bf1ba3a4"
+        },
+        "dob": {
+          "date": "1992-08-06T09:20:48.842Z",
+          "age": 30
+        },
+        "registered": {
+          "date": "2010-08-20T15:58:40.268Z",
+          "age": 12
+        },
+        "phone": "016977 23519",
+        "cell": "0792-793-804",
+        "id": {
+          "name": "NINO",
+          "value": "RC 18 96 83 B"
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/32.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+        },
+        "nat": "GB"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Ismayil",
+          "last": "Cabbarli"
+        },
+        "location": {
+          "street": {
+            "number": 5897,
+            "name": "Doktorlar Cd"
+          },
+          "city": "Razin",
+          "state": "Bakixanov",
+          "country": "Azerbaijan",
+          "postcode": 10476,
+          "coordinates": {
+            "latitude": "-59.6103",
+            "longitude": "-149.6555"
+          },
+          "timezone": {
+            "offset": "+5:45",
+            "description": "Kathmandu"
+          }
+        },
+        "email": "ismayil.colkali@example.com",
+        "login": {
+          "uuid": "5e755ba1-efe9-4455-b7dc-dc2746943a67",
+          "username": "angryzebra131",
+          "password": "tototo",
+          "salt": "ho8pZVhA",
+          "md5": "79a865b9187830634760079228043060",
+          "sha1": "eef6c360fbb9515e8546b905e95e2e84d91d893d",
+          "sha256": "ee5d868fcfd3520decd865c3914653e542bcd79e8eb53131d015c2e8755c18e7"
+        },
+        "dob": {
+          "date": "1986-04-04T04:30:04.623Z",
+          "age": 36
+        },
+        "registered": {
+          "date": "2004-08-27T17:26:38.716Z",
+          "age": 18
+        },
+        "phone": "(368)-418-1034",
+        "cell": "(991)-230-4749",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/9.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/9.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/9.jpg"
+        },
+        "nat": "TR"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Onur",
+          "last": "Smlv"
+        },
+        "location": {
+          "street": {
+            "number": 4909,
+            "name": "Beethovenstraße"
+          },
+          "city": "Masazir",
+          "state": "Qurtulus 93",
+          "country": "Azerbaijan",
+          "postcode": 15616,
+          "coordinates": {
+            "latitude": "-46.5715",
+            "longitude": "30.7331"
+          },
+          "timezone": {
+            "offset": "+11:00",
+            "description": "Magadan, Solomon Islands, New Caledonia"
+          }
+        },
+        "email": "onursmlv@example.com",
+        "login": {
+          "uuid": "cef0e922-dab5-46ae-bb7f-81bfd1f3654d",
+          "username": "ticklishmeercat979",
+          "password": "treetop",
+          "salt": "fosvO9LT",
+          "md5": "366ee00ef0dd52c243c76d93777ec888",
+          "sha1": "5775fb963a6311f5d06889680259eb511a9ba294",
+          "sha256": "e91b06ef4d24a2df9e9bde95b624e8bf5cd6c5175b98418deeb8b2c657eab791"
+        },
+        "dob": {
+          "date": "1948-09-19T17:52:24.038Z",
+          "age": 74
+        },
+        "registered": {
+          "date": "2016-11-25T01:05:56.200Z",
+          "age": 6
+        },
+        "phone": "0398-1262354",
+        "cell": "0176-3561605",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/76.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/76.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/76.jpg"
+        },
+        "nat": "DE"
+      },
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Vusal",
+          "last": "Aliyev"
+        },
+        "location": {
+          "street": {
+            "number": 4567,
+            "name": "Rua Boa Vista "
+          },
+          "city": "Sumqayit",
+          "state": "Yetimler",
+          "country": "Azerbaijan",
+          "postcode": 11503,
+          "coordinates": {
+            "latitude": "47.5660",
+            "longitude": "159.5053"
+          },
+          "timezone": {
+            "offset": "+1:00",
+            "description": "Brussels, Copenhagen, Madrid, Paris"
+          }
+        },
+        "email": "sumqayitbalasi@example.com",
+        "login": {
+          "uuid": "68fc0bf6-d710-4e35-92fc-ecd084fc3fbd",
+          "username": "angrybird430",
+          "password": "giant",
+          "salt": "1tXf82De",
+          "md5": "10c731d8de543638509607d4e4d64bd9",
+          "sha1": "004faf23f7d95cb08df0326a74763db291a0d576",
+          "sha256": "9098bfa00e50249f6979b98304d9330c7963925b59207d7e80bf8c564d21d9d2"
+        },
+        "dob": {
+          "date": "1946-06-29T19:01:26.493Z",
+          "age": 76
+        },
+        "registered": {
+          "date": "2012-04-16T10:52:52.862Z",
+          "age": 10
+        },
+        "phone": "(87) 4342-8884",
+        "cell": "(78) 5112-2220",
+        "id": {
+          "name": "",
+          "value": null
+        },
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/women/43.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/43.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/43.jpg"
+        },
+        "nat": "BR"
+      }
+    ],
+    "info": {
+      "seed": "bd4f7178f6af4f8d",
+      "results": 5,
+      "page": 1,
+      "version": "1.3"
+    }
+  }
